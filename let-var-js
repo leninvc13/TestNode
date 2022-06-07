@@ -1,0 +1,7 @@
+const nombre = 'Wolverine'
+console.log(nombre)
+
+if ( true ){
+    const nombre = 'magneto'
+    console.log(nombre)
+}
